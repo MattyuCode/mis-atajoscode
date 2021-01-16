@@ -121,7 +121,7 @@ abrir un terminal por donde esta el proyecto y empezamos escribir estos codigos
 
 * git push --set-upstream origin master
 
->  git log                         --------ver historial de commits
+>  git log                         -------ver historial de commits
  
 
 
