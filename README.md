@@ -1,5 +1,7 @@
 #mis Atajos de angular;
-<!-- -------------------------------------->
+>------------------------------------------------------
+>------------------------------------------------------
+
 npm install bootstrap --save
 npm install jquery --save
 npm install popper.js --save
@@ -28,6 +30,8 @@ ng serve -o --port 4300
 
 "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe"
 
+>------------------------------------------------------
+
 >===============SUBIR ARCHIVOS DE ANGULAR EN RIFEBASE================
 
 //SUBIR UN ARCHIVO EN (FIREBASE-DE-ANGULAR)
@@ -49,7 +53,7 @@ firebase deploy
 //tutorial para ver el video
 https://www.youtube.com/watch?v=Ek3LyBWtJbY
 
-
+>------------------------------------------------------
 >!================INSTALAR FIREBASE Y SUBIR ARCHIVOS DE HTML=====================
 
 Link del video para install firebase https://www.youtube.com/watch?v=drvXMz75k5s
@@ -65,7 +69,7 @@ dentro del proyecto abrir cmd
 >$ firebase deploy
 
 
-
+>------------------------------------------------------
 >=======================SUBIR ARCHIVO EN GITHUB=====================
 
 *Primero
@@ -78,7 +82,7 @@ Si nos pide registar para poder hacer el uso de GitHub/ solo se tiene que escrib
 
 >------------------------------------------------------
 
-> git clone (link de la carpeta en Githun)
+> git clone (link de la carpeta en Github)
 
 para clonar la carpeta por donde esta el proyecto.
 con el nombre del repository/ y dentro de la carpeta clonada se mete el proyect y  se habre GitBash ahi
