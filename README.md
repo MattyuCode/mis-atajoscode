@@ -106,16 +106,21 @@ con el nombre del repository/ y dentro de la carpeta clonada se mete el proyect 
 
 abrir un terminal por donde esta el proyecto y empezamos escribir estos codigos
 
-[
+
 >  git status
 
 >  git add .
 
 >  git commit -m "mensaje"
 
-]
+>  git remote add origin https://github.com/"pegar aqui el link del       
+>  repositorio de git"
 
+>  git push
 
+>  git push --set-upstream origin master
+
+>  git log
 
 
 
