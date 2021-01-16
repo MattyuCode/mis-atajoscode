@@ -32,7 +32,7 @@ ng serve -o --port 4300
 
 >------------------------------------------------------
 
->===============SUBIR ARCHIVOS DE ANGULAR EN RIFEBASE================
+>     ------------------UBIR ARCHIVOS DE ANGULAR EN RIFEBASE-------------
 
 > npm install -g firebase-tools
 
@@ -53,7 +53,7 @@ https://www.youtube.com/watch?v=Ek3LyBWtJbY
 
 >------------------------------------------------------
 
->--------------------INSTALAR FIREBASE Y SUBIR ARCHIVOS DE HTML-------------------
+>      -------------INSTALAR FIREBASE Y SUBIR ARCHIVOS DE HTML--------------
 
 Link del video para install firebase https://www.youtube.com/watch?v=drvXMz75k5s
 
@@ -70,7 +70,7 @@ dentro del proyecto abrir cmd
 
 >------------------------------------------------------
 
->--------------------------SUBIR ARCHIVO EN GITHUB--------------------------
+>       --------------------SUBIR ARCHIVO EN GITHUB-----------------
 
 *Primero
 
