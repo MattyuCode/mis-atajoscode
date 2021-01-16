@@ -2,7 +2,7 @@
 >------------------------------------------------------
 >------------------------------------------------------
 
->npm install bootstrap --save
+ npm install bootstrap --save
  npm install jquery --save
  npm install popper.js --save
  npm install mdbootstrap --save
