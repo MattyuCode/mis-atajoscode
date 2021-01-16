@@ -114,7 +114,7 @@ abrir un terminal por donde esta el proyecto y empezamos escribir estos codigos
 >  git commit -m "mensaje"        ---------------Guardar cambios    
 
 >  git remote add origin https://github.com/"pegar aqui el link del  repositorio de git"
-
+{git commit -m "con el mismo nombre" }
 >  git push                       -----Subir cambios al repositorio
 
 >  git push --set-upstream origin master
