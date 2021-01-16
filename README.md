@@ -66,17 +66,17 @@ dentro del proyecto abrir cmd
 
 
 
->--------------SUBIR ARCHIVO EN GITHUB-----------
+>=======================SUBIR ARCHIVO EN GITHUB=====================
 
-PRIMERO
-============si te pide resgistrar/ digitar esto=================
+*Primero
 
-(((((((((((((((((DENTRO DEL PRYECTO))))))))))))))))))))))))))
-C:>$ git config --global user.name "Mateo"
+Si nos pide registar para poder hacer el uso de GitHub/ solo se tiene que escribir esto 
 
-C:>$ git config --global user.email "ememattyu12@gmail.com"
+>$ git config --global user.name "Mateo"
 
->===============================================================
+>$ git config --global user.email "ememattyu12@gmail.com"
+
+>------------------------------------------------------
 
 > git clone (link de la carpeta en Githun)
 
