@@ -48,7 +48,7 @@ firebase deploy
 //tutorial para ver el video
 https://www.youtube.com/watch?v=Ek3LyBWtJbY
 
-<!---------------INSTALAR FIREBASE Y SUBIR ARCHIVOS DE HTML-------------------------->
+>!==============================INSTALAR FIREBASE Y SUBIR ARCHIVOS DE HTML====================================
 
 Link del video para install firebase https://www.youtube.com/watch?v=drvXMz75k5s
 
@@ -64,7 +64,7 @@ dentro del proyecto abrir cmd
 
 
 
-<!--------------SUBIR ARCHIVO EN GITHUB-------------->
+>--------------SUBIR ARCHIVO EN GITHUB--------------
 PRIMERO
 ============si te pide resgistrar/ digitar esto=================
 
@@ -73,7 +73,8 @@ C:>$ git config --global user.name "Mateo"
 
 C:>$ git config --global user.email "ememattyu12@gmail.com"
 
-===============================================================
+>===============================================================
+
 > git clone --------link del repository---------
 para clonar la carpeta por donde esta el proyecto.
 con el nombre del repository/ y dentro de la carpeta clonada se habre GitBash
