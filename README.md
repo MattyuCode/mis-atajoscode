@@ -53,7 +53,7 @@ https://www.youtube.com/watch?v=Ek3LyBWtJbY
 
 >------------------------------------------------------
 
->      -------------INSTALAR FIREBASE Y SUBIR ARCHIVOS DE HTML--------------
+>      ---------------INSTALAR FIREBASE Y SUBIR ARCHIVOS DE HTML--------------
 
 Link del video para install firebase https://www.youtube.com/watch?v=drvXMz75k5s
 
@@ -70,7 +70,7 @@ dentro del proyecto abrir cmd
 
 >------------------------------------------------------
 
->       --------------------SUBIR ARCHIVO EN GITHUB-----------------
+>       -----------------------SUBIR ARCHIVO EN GITHUB-----------------------
 
 *Primero
 
@@ -106,11 +106,12 @@ con el nombre del repository/ y dentro de la carpeta clonada se mete el proyect 
 
 abrir un terminal por donde esta el proyecto y empezamos escribir estos codigos
 
-> git status
-> git add .
-> git commit -m "mensaje"
+[ 
+git status
+git add .
+git commit -m "mensaje"
 
-
+]
 
 
 
