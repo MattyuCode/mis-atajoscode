@@ -34,21 +34,19 @@ ng serve -o --port 4300
 
 >===============SUBIR ARCHIVOS DE ANGULAR EN RIFEBASE================
 
-//SUBIR UN ARCHIVO EN (FIREBASE-DE-ANGULAR)
+> npm install -g firebase-tools
 
-npm install -g firebase-tools
+> firebase login
 
-firebase login
+> ng build --prod
 
-ng build --prod
-
-firebase init
+> firebase init
 
 {
     "public": "./dist/{nombre-del-proyecto}",
 }
 
-firebase deploy
+> firebase deploy
 
 //tutorial para ver el video
 https://www.youtube.com/watch?v=Ek3LyBWtJbY
