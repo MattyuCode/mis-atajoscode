@@ -108,7 +108,9 @@ abrir un terminal por donde esta el proyecto y empezamos escribir estos codigos
 
 [
 >  git status
+
 >  git add .
+
 >  git commit -m "mensaje"
 
 ]
