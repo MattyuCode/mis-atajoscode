@@ -28,7 +28,8 @@ ng serve -o --port 4300
 
 "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe"
 
-<!-----------------------SUBIR ARCHIVOS DE ANGULAR EN RIFEBASE------------------------------------>
+>=================================SUBIR ARCHIVOS DE ANGULAR EN RIFEBASE==================================
+
 //SUBIR UN ARCHIVO EN (FIREBASE-DE-ANGULAR)
 
 npm install -g firebase-tools
