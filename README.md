@@ -107,11 +107,11 @@ con el nombre del repository/ y dentro de la carpeta clonada se mete el proyect 
 abrir un terminal por donde esta el proyecto y empezamos escribir estos codigos
 
 [
->  git status
+  git status
 
->  git add .
+  git add .
 
->  git commit -m "mensaje"
+  git commit -m "mensaje"
 
 ]
 
