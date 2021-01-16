@@ -115,13 +115,13 @@ abrir un terminal por donde esta el proyecto y empezamos escribir estos codigos
 
 >  git remote add origin https://github.com/"pegar aqui el link del  repositorio de git"
 
-* git commit -m "con el mismo nombre" }
+* git commit -m "con el mismo nombre" 
 
 >  git push                       -----Subir cambios al repositorio
 
 * git push --set-upstream origin master
 
->  git log                         [--------ver historial de commits
+>  git log                         --------ver historial de commits
  
 
 
