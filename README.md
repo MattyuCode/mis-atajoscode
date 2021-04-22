@@ -20,10 +20,17 @@
             ]
 
 
-( cambiar puerto )
+* ( cambiar puerto )
 ng serve -o --port 4300   
 
-              [ ` ]
+* ( no generar sped  )
+--skip-tests
+
+* ( cambiar css a scss )
+ng new " " --style=scss
+
+
+              [ `  \]
 
 
 (---------TERMINARL VST CODE-----------)
