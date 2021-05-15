@@ -1,9 +1,9 @@
 
-Primero que nada, chequeamos nuestra versión del cli 
+Primero que nada, chequeamos nuestra versión del ANGULAR-CLI
 
  > # ng v 
 
-Si queremos actualizar debemos primero desinstalar la actual versión de angular-cli
+Si queremos actualizar debemos primero desinstalar version actual de ANGULAR-CLI
 > #  npm uninstall -g angular-cli
 
 hay que verificar el cache 
@@ -12,7 +12,7 @@ hay que verificar el cache
 es muy importante limpiar el cache
 > #  npm cache clean
  
- es momento de instalar la Version nueva de angular
+ Es momento de instalar la Version nueva de ANGULAR
 
 > # npm install -g @angular/cli@latest
 
