@@ -23,5 +23,5 @@ si queremos instalar una versión tenemos que específicar (ejemplo: v11.0.1)
 
  
 >------------------------------------------------------
- > En caso que de que te tira error de REPOSITORY IN NOT CLEAN. PLEASE COMMIT OR STASH ANY CHANGES BEFORE UPDATING.
-> ng update @angular/core@12 @angular/cli@12 --allow-dirty
+>                      En caso que de que te tira error de REPOSITORY IN NOT CLEAN. PLEASE COMMIT OR STASH ANY CHANGES BEFORE UPDATING.
+>                *  ng update @angular/core@12 @angular/cli@12 --allow-dirty
