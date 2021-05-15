@@ -1,7 +1,7 @@
 
 Primero que nada, chequeamos nuestra versión del cli 
 
- > # ng version 
+ > # ng v 
 
 Si queremos actualizar debemos primero desinstalar la actual versión de angular-cli
 > #  npm uninstall -g angular-cli
