@@ -1,5 +1,5 @@
 
-Primero que nada, chequeamos nuestra versión del cli
+Primero que nada, chequeamos nuestra versión del cli 
 
  > # ng version 
 
