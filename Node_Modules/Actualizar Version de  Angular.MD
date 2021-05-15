@@ -18,5 +18,5 @@ es muy importante limpiar el cache
 
 # 
 
-si queremos instalar una versión tenemos que específicar (ejemplo: 11.0.1)
+si queremos instalar una versión tenemos que específicar (ejemplo: v11.0.1)
 > #  npm install -g @angular/cli@11.0.1
