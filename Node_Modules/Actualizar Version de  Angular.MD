@@ -22,10 +22,7 @@ es muy importante limpiar el cache
 si queremos instalar una versión tenemos que específicar (ejemplo: 11.0.1)
 > #  npm install -g @angular/cli@11.0.1
 
-si queremos instalar una versión tenemos que específicar (ejemplo: v11.0.1)
-> #  npm install -g @angular/cli@11.0.1
 
- 
 >------------------------------------------------------
 >        En caso que de que te tira error de REPOSITORY IN NOT CLEAN. PLEASE COMMIT OR STASH ANY CHANGES BEFORE UPDATING.
 >                *  ng update @angular/core@12 @angular/cli@12 --allow-dirty
