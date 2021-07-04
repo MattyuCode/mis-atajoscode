@@ -34,7 +34,7 @@ Especifique el módulo con el parámetro --module. Por ejemplo, si el módulo pr
 
 ng g c new-component --module app
 
-Or if you are in an other directory then
+O si se encuentra en otro directorio
 ng g c component-name --module ../
 
 
