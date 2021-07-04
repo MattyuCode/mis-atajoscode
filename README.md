@@ -47,7 +47,7 @@ ng g c component-name --module ../
 
 >------------------------------------------------------
 
->     ------------------UBIR ARCHIVOS DE ANGULAR EN RIFEBASE-------------
+>     ------------------SUBIR ARCHIVOS DE ANGULAR EN RIFEBASE-------------
 
 > npm install -g firebase-tools
 
@@ -75,6 +75,8 @@ Link del video para install firebase https://www.youtube.com/watch?v=drvXMz75k5s
 dentro del proyecto abrir cmd
 
 >$ npm install -g firebase-tools
+
+>$ firebase logout
 
 >$ firebase login
 
