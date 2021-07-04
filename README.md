@@ -29,6 +29,14 @@ ng serve -o --port 4300
 * ( cambiar css a scss )
 ng new " " --style=scss
 
+* Error: More than one module matches. Use skip-import option to skip importing the component into the closest module
+Especifique el módulo con el parámetro --module. Por ejemplo, si el módulo principal es app.module.ts, ejecute esto:
+
+ng g c new-component --module app
+
+Or if you are in an other directory then
+ng g c component-name --module ../
+
 
               [ `  \]
 
