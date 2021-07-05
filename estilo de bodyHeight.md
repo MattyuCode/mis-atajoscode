@@ -1,0 +1,26 @@
+html,
+body {
+  height: 105%;
+  margin: 0;
+  background: cornsilk;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+body::-webkit-scrollbar {
+  width: 8px;
+  height: 0px;
+}
+
+body::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+}
+body::-webkit-scrollbar-thumb:hover {
+     background: rgba(51, 51, 51, 0.521);
+    box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+body::-webkit-scrollbar-track {
+  background: #e1e1e1;
+  border-radius: 4px;
+}
