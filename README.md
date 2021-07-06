@@ -26,6 +26,10 @@
 * ( no generar sped  )
 >     --skip-tests
 
+> ng g c components/shared/cart --inline-template --inline-style --skip-tests
+
+https://www.tutorialesprogramacionya.com/angularya/detalleconcepto.php?punto=32&codigo=32&inicio=20
+
 * ( cambiar css a scss )
 >     ng new " " --style=scss
 
