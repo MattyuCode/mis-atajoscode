@@ -27,7 +27,7 @@
 >     --skip-tests
 
 *  crear un TS que no lleve HTML, STYLE y el SPEDTESTS
-> ng g c components/shared/cart --inline-template --inline-style --skip-tests
+>     ng g c components/shared/cart --inline-template --inline-style --skip-tests
 
 https://www.tutorialesprogramacionya.com/angularya/detalleconcepto.php?punto=32&codigo=32&inicio=20
 
