@@ -33,7 +33,7 @@ https://www.tutorialesprogramacionya.com/angularya/detalleconcepto.php?punto=32&
 * ( cambiar css a scss )
 >     ng new " " --style=scss
 
-
+*  creando el route con el module dentro de la carpeta checkout- o otra carpeta asignada
 >     ng g m pages/checkout/gracias-pagina/ --module checkout --route gracias
 
 * Error: More than one module matches. Use skip-import option to skip importing the component into the closest module
