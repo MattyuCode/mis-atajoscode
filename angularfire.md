@@ -151,7 +151,7 @@ Your Angular app will compile and serve locally, visit it we should see an empty
 In another tab [start adding data to an `items` collection in Firestore](https://firebase.google.com/docs/firestore/manage-data/add-data). *As we're not authenticating users yet, be sure to start Firestore in **test mode** or allow reading from the `items` collection in Security Rules (`allow read: if true`).*
 
 paste this 
-
+```
 rules_version = '2';
 service cloud.firestore {
   match /databases/{database}/documents {
@@ -160,7 +160,7 @@ service cloud.firestore {
     }
   }
 }
-
+```
 Once you've created a `items` collection and are inserting documents, you should see data streaming into your Angular application.
 
 ### 10. Deploy your app
