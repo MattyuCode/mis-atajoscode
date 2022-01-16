@@ -1,11 +1,14 @@
 #                Ver la contraseña de WiFi guardadas
 *  EN CMD
+*  Paso 1
 >     netsh wlan show profile
 
-netsh wlan show profile name=nombredelperfil key=clear
+*  Paso 2
+>     netsh wlan show profile name=nombredelperfil key=clear
 
->        ---------------MANUAL
-Configuracion de red  e internet 
+*      MANUAL
+
+-   Configuracion de red  e internet 
 Wifi
 Centro de redes y recursos compartidos
 Conexion de wifi
