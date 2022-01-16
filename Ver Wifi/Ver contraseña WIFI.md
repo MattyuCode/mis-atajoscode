@@ -8,6 +8,7 @@
 
 *  MANUAL
 
+<<<<<<< HEAD
 : Configuracion de red  e internet 
 
 : Wifi
@@ -19,3 +20,12 @@
 :Propiedades inalambricas
 
 :seguridad
+=======
+. Configuracion de red  e internet 
+
+. Wifi
+Centro de redes y recursos compartidos
+Conexion de wifi
+Propiedades inalambricas
+seguridad
+>>>>>>> 235917b8bf76614383e486d2d80d1e36a4d03e41
