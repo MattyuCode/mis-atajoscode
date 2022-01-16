@@ -1,4 +1,4 @@
->                    Ver la contraseña de tus WiFis guardadas
+#                Ver la contraseña de tus WiFis guardadas
 EN CMD
 netsh wlan show profile
 
