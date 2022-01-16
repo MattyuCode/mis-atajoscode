@@ -6,9 +6,9 @@
 *  Paso 2
 >     netsh wlan show profile name=nombredelperfil key=clear
 
-*      MANUAL
+*  MANUAL
 
--   Configuracion de red  e internet 
+1.   Configuracion de red  e internet 
 Wifi
 Centro de redes y recursos compartidos
 Conexion de wifi
