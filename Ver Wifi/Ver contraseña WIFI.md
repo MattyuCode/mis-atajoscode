@@ -8,8 +8,8 @@
 
 *  MANUAL
 
-1.   Configuracion de red  e internet 
-Wifi
+. Configuracion de red  e internet 
+. Wifi
 Centro de redes y recursos compartidos
 Conexion de wifi
 Propiedades inalambricas
