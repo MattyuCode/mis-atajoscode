@@ -1,5 +1,6 @@
 {
-    "php.validate.executablePath": "D:\\WebSites\\PHP\\xampp\\php\\php.exe",
+   
+   "php.validate.executablePath": "D:\\WebSites\\PHP\\xampp\\php\\php.exe",
     // "php.validate.executablePath": "C:\\xampp\\php\\php.exe",
     "php.executablePath": "D:\\WebSites\\PHP\\xampp\\php\\php.exe",
     //"php.executablePath": "C:\\xampp\\php\\php.exe",
@@ -32,6 +33,7 @@
             "args": []
         }
     },
+    
 }
 
 
