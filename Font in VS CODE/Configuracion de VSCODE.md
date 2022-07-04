@@ -30,7 +30,8 @@
             "source": "Git Bash"
         },
         "GitBash": {
-            "path": "C:\\WINDOWS\\System32\\cmd.exe",
+            //"path": "C:\\WINDOWS\\System32\\cmd.exe",
+            "path": "D:\\Program Files\\Git\\bin\\bash.exe",
             "args": []
         }
     },
