@@ -8,6 +8,7 @@
     "workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
     "workbench.iconTheme": "material-icon-theme",
     "tabnine.experimentalAutoImports": true,
+    "emmet.triggerExpansionOnTab": true,
     "editor.fontFamily": "'Fira Code', 'Courier New', monospace",
     "editor.fontLigatures": true,
     "terminal.integrated.defaultProfile.windows": "GitBash",
