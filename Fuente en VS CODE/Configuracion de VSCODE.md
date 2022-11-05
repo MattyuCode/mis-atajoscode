@@ -5,7 +5,7 @@
     // "php.validate.executablePath": "C:\\xampp\\php\\php.exe",
     "php.executablePath": "D:\\WebSites\\PHP\\xampp\\php\\php.exe",
     //"php.executablePath": "C:\\xampp\\php\\php.exe",
-    "workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
+    "workbench.colorTheme": "One Monokai",
     "workbench.iconTheme": "material-icon-theme",
     "tabnine.experimentalAutoImports": true,
     "emmet.triggerExpansionOnTab": true,
@@ -36,7 +36,18 @@
             "args": []
         }
     },
+    "git.autofetch": true,
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "editor.codeActionsOnSave": {
+    },
     
 }
+
+
 
 
