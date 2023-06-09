@@ -1,23 +1,28 @@
 # console.log(): Muestra un mensaje en la consola. Puede contener variables, expresiones y objetos para mostrar su valor.
 
+```js
 const name = "John";
 const age = 30;
 console.log("¡Hola, mi nombre es", nombre, "y tengo", edad, "años de edad!");
+```
 
+* console.error(): Muestra un mensaje de error en la consola. Se utiliza para indicar errores o problemas en el código.
 
-# console.error(): Muestra un mensaje de error en la consola. Se utiliza para indicar errores o problemas en el código.
-
+```js
 const x = 10;
 if (x < 5) {
 console.error("Error: x es mayor que 5");
 }
+```
 
 # console.warn(): Muestra un mensaje de advertencia en la consola. Se utiliza para indicar advertencias o situaciones potencialmente problemáticas en el código.
 
+```js
 const temperature = 90;
 if (temperature > 100) {
 console.warn("Warning:La temperatura es muy alta.!");
 }
+```
 
 # console.info(): Muestra un mensaje informativo en la consola. Se utiliza para proporcionar información adicional sobre el código.
 
