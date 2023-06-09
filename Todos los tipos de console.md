@@ -1,4 +1,4 @@
-# console.log(): Muestra un mensaje en la consola. Puede contener variables, expresiones y objetos para mostrar su valor.
+* console.log(): Muestra un mensaje en la consola. Puede contener variables, expresiones y objetos para mostrar su valor.
 
 ```js
 const name = "John";
@@ -15,7 +15,7 @@ console.error("Error: x es mayor que 5");
 }
 ```
 
-# console.warn(): Muestra un mensaje de advertencia en la consola. Se utiliza para indicar advertencias o situaciones potencialmente problemáticas en el código.
+* console.warn(): Muestra un mensaje de advertencia en la consola. Se utiliza para indicar advertencias o situaciones potencialmente problemáticas en el código.
 
 ```js
 const temperature = 90;
@@ -24,17 +24,19 @@ console.warn("Warning:La temperatura es muy alta.!");
 }
 ```
 
-# console.info(): Muestra un mensaje informativo en la consola. Se utiliza para proporcionar información adicional sobre el código.
-
+* console.info(): Muestra un mensaje informativo en la consola. Se utiliza para proporcionar información adicional sobre el código.
+```js
 const user = {
 name: "Alice",
 age: 25,
 city: "London"
 };
 console.info("User:", user);
+```
 
-# console.debug(): Muestra un mensaje de depuración en la consola. Se utiliza para imprimir mensajes de depuración durante el desarrollo.
+* console.debug(): Muestra un mensaje de depuración en la consola. Se utiliza para imprimir mensajes de depuración durante el desarrollo.
 
+```js
 function calculateSum(a, b) {
 console.debug("Calculating sum...");
 const sum = a + b;
@@ -42,22 +44,25 @@ console.debug("Sum calculated:", sum);
 return sum;
 }
 calculateSum(5, 3);
+```
 
-# console.assert(): Comprueba si una afirmación es verdadera. Si la afirmación es falsa, muestra un mensaje de error en la consola.
-
+* console.assert(): Comprueba si una afirmación es verdadera. Si la afirmación es falsa, muestra un mensaje de error en la consola.
+```js
 function divide(a, b) {
 console.assert(b !== 0, "Error: No se permite la división por cero.");
 return a / b;
 }
 divide(10, 0);
+```
 
-# console.clear(): Limpia la consola y borra todos los mensajes anteriores.
-
+* console.clear(): Limpia la consola y borra todos los mensajes anteriores.
+```js
 console.clear();
 console.log("Este mensaje será el único que se mostrará en la consola");
+```
 
-# console.count(): Registra el número de veces que se ha llamado a
-
+* console.count(): Registra el número de veces que se ha llamado a
+```js
 function processItem(item) {
 console.count("Processed items");
 // Resto del código de procesamiento del elemento
@@ -65,18 +70,20 @@ console.count("Processed items");
 processItem("A");
 processItem("B");
 processItem("C");
+```
 
-# console.table(): Muestra datos tabulares en forma de tabla en la consola. Acepta un array de objetos o una matriz y muestra sus propiedades como columnas.
-
+* console.table(): Muestra datos tabulares en forma de tabla en la consola. Acepta un array de objetos o una matriz y muestra sus propiedades como columnas.
+```js
 const users = [
 { name: "John", age: 30 },
 { name: "Alice", age: 25 },
 { name: "Bob", age: 35 }
 ];
 console.table(users);
+```
 
-# console.group(), console.groupCollapsed(), console.groupEnd(): Agrupa mensajes en la consola. Se utilizan para crear grupos de mensajes relacionados y ayudar a organizar la salida en la consola.
-
+* console.group(), console.groupCollapsed(), console.groupEnd(): Agrupa mensajes en la consola. Se utilizan para crear grupos de mensajes relacionados y ayudar a organizar la salida en la consola.
+```js
 console.group("Outer Group");
 console.log("Message inside outer group");
 console.groupCollapsed("Inner Group");
@@ -84,3 +91,4 @@ console.log("Message inside inner group");
 console.groupEnd();
 console.log("Message outside groups");
 console.groupEnd();
+```
