@@ -41,57 +41,57 @@
         "editor.defaultFormatter": "vscode.json-language-features"
     },
     "editor.codeActionsOnSave": {},
-    "todo-tree.highlights.defaultHighlight": {
-        "icon": "alert",
-        "type": "text-and-comment",
-        "foreground": "#000000",
-        "background": "#FFFFFF",
-        "opacity": 50,
-        "iconColour": "#2053b9",
-        "gutterIcon": true
+   "todo-tree.highlights.defaultHighlight": {
+      "icon": "alert",
+      "type": "text-and-comment",
+      "foreground": "#000000",
+      "background": "#FFFFFF",
+      "opacity": 50,
+      "iconColour": "#2053b9",
+      "gutterIcon": true
     },
     "todo-tree.highlights.customHighlight": {
-        "TODO": {
-            "icon": "check",
-            "foreground": "#000000",
-            "background": "#ffffff",
-            "iconColour": "#ffffff"
-        },
-        "NOTE": {
-            "icon": "note",
-            "foreground": "#FFFFFF",
-            "background": "#1ff0ff",
-            "iconColour": "#808080"
-        },
-        "COMMENT": {
-            "icon": "note",
-            "foreground": "#000000",
-            "background": "#77ff00",
-            "iconColour": "#77ff00"
-        },
-        "FIXME": {
-            "foreground": "#000000",
-            "background": "#FFFF00",
-            "iconColour": "#FFFF00"
-        },
-        "BUG": {
-            "foreground": "#ffffff",
-            "background": "#29ff70",
-            "iconColour": "#29ff70"
-        },
-        "MAT": {
-            "foreground": "#FFF",
-            "background": "#2053b9",
-            "iconColour": "#2053b9"
-        }
+      "TODO": {
+        "icon": "check",
+        "foreground": "#000000",
+        "background": "#29ff70",
+        "iconColour": "#29ff70"
+      },
+      "NOTE": {
+        "icon": "note",
+        "foreground": "#FFFFFF",
+        "background": "#1ff0ff",
+        "iconColour": "#1ff0ff"
+      },
+      "COMMENT": {
+        "icon": "note",
+        "foreground": "#000000",
+        "background": "#77ff00",
+        "iconColour": "#77ff00"
+      },
+      "FIXME": {
+        "foreground": "#000000",
+        "background": "#FFFF00",
+        "iconColour": "#FFFF00"
+      },
+      "BUG": {
+        "foreground": "#ffffff",
+        "background": "#29ff70",
+        "iconColour": "#29ff70"
+      },
+      "MAT": {
+        "foreground": "#FFF",
+        "background": "#2053b9",
+        "iconColour": "#2053b9"
+      }
     },
     "todo-tree.general.tags": [
-        "BUG",
-        "FIXME",
-        "TODO",
-        "NOTE",
-        "COMMENT",
-        "MAT"
+      "BUG",
+      "FIXME",
+      "TODO",
+      "NOTE",
+      "COMMENT",
+      "MAT"
     ],
     "[jsonc]": {
         "editor.defaultFormatter": "vscode.json-language-features"
