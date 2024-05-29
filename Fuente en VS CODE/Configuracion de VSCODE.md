@@ -3,13 +3,16 @@
 {
     "php.executablePath": "D:\\WebSites\\PHP\\xampp\\php\\php.exe",
     //"php.executablePath": "C:\\xampp\\php\\php.exe",
-    "workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
+    "workbench.colorTheme": "One Dark Pro",
     "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorCustomizations": {
+      "tab.activeBackground": "#03eeff62"
+    },
     "tabnine.experimentalAutoImports": true,
     "emmet.triggerExpansionOnTab": true,
     "editor.fontFamily": "'Fira Code', 'Courier New', monospace",
     "editor.fontLigatures": true,
-    "terminal.integrated.defaultProfile.windows": "GitBash",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
     "editor.minimap.enabled": false,
     "terminal.integrated.profiles.windows": {
         "PowerShell": {
@@ -114,8 +117,11 @@
     "javascript.updateImportsOnFileMove.enabled": "always",
     "settingsSync.ignoredExtensions": [],
     "bracket-pair-colorizer-2.depreciation-notice": false,
-    "editor.fontVariations": false
+    "editor.fontVariations": false,
+    "prisma.showPrismaDataPlatformNotification": false,
+    "console-ninja.featureSet": "Community"
 }
+
 
 
 ```
