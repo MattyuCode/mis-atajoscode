@@ -120,6 +120,8 @@
     "editor.fontVariations": false,
     "prisma.showPrismaDataPlatformNotification": false,
     "console-ninja.featureSet": "Community"
+    "workbench.sideBar.location": "right",
+    "workbench.activityBar.location": "top"
 }
 
 
