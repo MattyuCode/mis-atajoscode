@@ -119,7 +119,7 @@
     "bracket-pair-colorizer-2.depreciation-notice": false,
     "editor.fontVariations": false,
     "prisma.showPrismaDataPlatformNotification": false,
-    "console-ninja.featureSet": "Community"
+    "console-ninja.featureSet": "Community",
     "workbench.sideBar.location": "right",
     "workbench.activityBar.location": "top"
 }
