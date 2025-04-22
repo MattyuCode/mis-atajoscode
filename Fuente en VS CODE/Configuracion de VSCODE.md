@@ -121,7 +121,10 @@
     "prisma.showPrismaDataPlatformNotification": false,
     "console-ninja.featureSet": "Community",
     "workbench.sideBar.location": "right",
-    "workbench.activityBar.location": "top"
+    "workbench.activityBar.location": "top",
+    "explorer.compactFolders": false,
+    "editor.wordWrap": "on",
+    "terminal.integrated.suggest.enabled": true
 }
 
 
